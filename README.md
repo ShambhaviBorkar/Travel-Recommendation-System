@@ -30,7 +30,7 @@ A machine learning-based web application that suggests travel destinations based
 
 > Add screenshots here (interface, outputs, graphs)
 > Example:  
-> ![App Screenshot](screenshots/homepage.png)
+> ![App Screenshot](IMAGES/Screenshot 2025-06-13 170518.png)
 
 ## 🚀 Getting Started
 
