@@ -35,3 +35,41 @@ A machine learning-based web application that suggests travel destinations based
 ```bash
 git clone https://github.com/ShambhaviBorkar/Travel-Recommendation-System.git
 cd Travel-Recommendation-System
+2. Install Dependencies
+Make sure you have Python 3.8+ and pip installed:
+```
+```bash
+pip install -r requirements.txt
+If there's no requirements.txt, manually install:
+```
+```bash
+pip install streamlit pandas numpy scikit-learn seaborn matplotlib
+3. Run the App
+```
+```bash
+streamlit run travel_app.py
+📂 Project Structure
+```
+```bash
+Travel-Recommendation-System/
+├── travel_app.py          # Main Streamlit app
+├── model.pkl              # Trained recommendation model
+├── destinations.csv       # Dataset used
+├── assets/                # Images and visuals
+└── README.md
+```
+📈 Future Improvements
+Add login and profile history
+
+Integrate real-time weather and cost APIs
+
+Suggest travel packages or hotels
+
+Improve recommendation logic with collaborative filtering
+
+🙋‍♀️ Author
+Gauri Gotad
+GitHub: [@ShambhaviBorkar](https://github.com/Gaurigotad)
+
+Shambhavi Borkar
+GitHub: [@ShambhaviBorkar](https://github.com/ShambhaviBorkar)
