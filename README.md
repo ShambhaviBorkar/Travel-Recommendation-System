@@ -27,7 +27,7 @@ A machine learning-based web application that suggests travel destinations based
 | Pickle         | Model saving and loading        |
 
 ## 📷 Screenshots
-> ![App Screenshot](IMAGES/Screenshot 2025-06-13 170518.png)
+> ![App Screenshot]()
 
 ## 🚀 Getting Started
 
@@ -35,21 +35,18 @@ A machine learning-based web application that suggests travel destinations based
 ```bash
 git clone https://github.com/ShambhaviBorkar/Travel-Recommendation-System.git
 cd Travel-Recommendation-System
+```
 2. Install Dependencies
-Make sure you have Python 3.8+ and pip installed:
-```
-```bash
-pip install -r requirements.txt
-If there's no requirements.txt, manually install:
-```
+Make sure you have Python 3.8+ and pip installed
+
 ```bash
 pip install streamlit pandas numpy scikit-learn seaborn matplotlib
-3. Run the App
 ```
+3. Run the App
 ```bash
 streamlit run travel_app.py
-📂 Project Structure
 ```
+📂 Project Structure
 ```bash
 Travel-Recommendation-System/
 ├── travel_app.py          # Main Streamlit app
