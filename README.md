@@ -31,7 +31,7 @@ A machine learning-based web application that suggests travel destinations based
 
 ## 🚀 Getting Started
 
-### 1. Clone the Repository
+1. Clone the Repository
 ```bash
 git clone https://github.com/ShambhaviBorkar/Travel-Recommendation-System.git
 cd Travel-Recommendation-System
