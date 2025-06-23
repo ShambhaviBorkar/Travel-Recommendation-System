@@ -66,7 +66,9 @@ Improve recommendation logic with collaborative filtering
 
 ## 🙋‍♀️ Authors
 Gauri Gotad
+
 GitHub: [@Gaurigotad](https://github.com/Gaurigotad)
 
 Shambhavi Borkar
+
 GitHub: [@ShambhaviBorkar](https://github.com/ShambhaviBorkar)
