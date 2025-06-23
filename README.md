@@ -64,7 +64,7 @@ Suggest travel packages or hotels
 
 Improve recommendation logic with collaborative filtering
 
-🙋‍♀️ Author
+## 🙋‍♀️ Authors
 Gauri Gotad
 GitHub: [@Gaurigotad](https://github.com/Gaurigotad)
 
