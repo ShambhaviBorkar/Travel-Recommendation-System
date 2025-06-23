@@ -27,7 +27,7 @@ A machine learning-based web application that suggests travel destinations based
 | Pickle         | Model saving and loading        |
 
 ## 📷 Screenshots
-> ![App Screenshot](IMAGES/Screenshot 2025-06-13 170518.png)
+> ![App Screenshot](IMAGES/homepage.png)
 
 ## 🚀 Getting Started
 
